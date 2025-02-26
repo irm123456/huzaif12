@@ -1,1 +1,2 @@
-# huzaif12
+# DictionaryApp
+My Dictionary App
